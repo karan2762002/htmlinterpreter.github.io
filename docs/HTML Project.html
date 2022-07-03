@@ -52,10 +52,10 @@ here.. </p>   </div>
 
 <p font color= Blue id="d2">
 
-<marquee><U><b><font size="6"
+<center><U><b><font size="6"
 color="#00800">HTML Page Showing
 
-Above </font></b><u></marquee>  
+Above </font></b><u></center>  
 
 </p>
 
