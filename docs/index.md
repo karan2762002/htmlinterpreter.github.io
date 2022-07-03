@@ -1,37 +1,98 @@
-## Welcome to GitHub Pages
+<html>
+<head> <title> HTML
 
-You can use the [editor on GitHub](https://github.com/karan2762002/htmlinterpreter.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Interpretor</title>
+</head>
+ <script>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+function lw()
+{
+x = document.getElementById
 
-### Markdown
+("d1");
+//y = x.innerHTML;
+z = document.getElementById
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+("d3")
+//z.value = x.innerHTML;
+x.innerHTML = z.value;
 
-```markdown
-Syntax highlighted code block
+//alert(z.value);
+//alert(z);
 
-# Header 1
-## Header 2
-### Header 3
+}
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+</script>
 
-[Link](url) and ![Image](src)
-```
+<body  
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+bgcolor="Aqua" fontsize = "5"
+>
 
-### Jekyll Themes
+<br/>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/karan2762002/htmlinterpreter.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+<br/>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<form
+
+action="https://github.com/karan
+
+2762002" method="get">
+<center>
+<div id= "d1"> <p
+
+style="color:red;"> Code Showing
+
+here.. </p>   </div>
+
+<br/></center>
+
+<p font color= Blue id="d2">
+
+<center><U><b><font size="6"
+color="#00800">HTML Page Showing
+
+Above </font></b><u>
+
+ <br/>
+
+
+
+<center>
+ 
+<U><font size ="3" color="red">
+
+enter your code  
+
+</font></U><textarea id="d3"
+
+onkeyup="lw()">
+</textarea>
+</center>
+<center>  
+<button> submit </button>
+<input type=  "Reset" >
+
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+<p style="color:red;">|
+
+Copyright ©2020 | All Rights
+
+Reserved..</p>
+
+</center>
+            
