@@ -90,7 +90,7 @@ onkeyup="lw()">
 <br/>
 <p style="color:red;">|
 
-Copyright ©2020 | All Rights
+Copyright ©2022 | All Rights
 
 Reserved..</p>
 
