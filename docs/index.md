@@ -94,5 +94,5 @@ Copyright ©2020 | All Rights
 
 Reserved..</p>
 
-</center>
+
             
